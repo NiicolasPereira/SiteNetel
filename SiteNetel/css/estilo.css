@@ -1,0 +1,66 @@
+body{
+    background: url(../images/contact-header.jpg);
+    background-repeat: no-repeat;
+}
+
+.navbar-default {
+    background: #202020;
+    border: none;
+    border-left: 6px solid #ffffff;
+    padding-right: 40px;
+    margin: 0 !important;
+    position: relative;
+    top: 20px;
+  }
+
+#portfolio{
+    background: url(../images/portfolio-header.jpg);
+    color: white;
+}
+
+.divider .divider-one {
+    background: #000000;
+  }
+  .divider .divider-two {
+    background: #ffffff;
+    color: #000000;
+  }
+  .divider .divider-three {
+    background: #001380;
+  }
+
+  .divider .circle{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50%;
+    font-size: 32px;
+    width: 80px;
+    height: 80px;
+    line-height: 76px;
+    text-transform: capitalize;
+  }
+
+  .divider-two h2{ 
+      color: black;
+  }
+
+  .copyright{
+      color: black;
+  }
+
+  .social-icons li a:hover {
+    background: #000766;
+    color: #fff;
+  }
+
+  .btn:hover {
+    background:blue;
+    border-color: transparent;
+  }
+
+  footer .form-control:focus,
+footer .form-control:hover {
+	color: #fff;
+  	background: #00f7ffc9;
+  	border-color: transparent;
+}
+  
